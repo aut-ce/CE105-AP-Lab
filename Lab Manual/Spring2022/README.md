@@ -1,5 +1,8 @@
 # Contributors
+* [Abolfazl Hosseini](github.com/AbolfazlHosseini200)
+* [Alireza Nemati](https://github.com/alirza4)
 * [Alireza Zare](https://github.com/azare242)
+* [Amirerfan Teimoory](github.com/amirerfantim)
 * [Amirfazel Koozegar](https://github.com/mr-amirfazel)
 * [Amirhesam Adibinia](https://github.com/adibov/)
 * [Arian Qazvini](https://github.com/ArianQazvini)
@@ -9,6 +12,7 @@
 * [Farid Masjedi](https://github.com/blue-farid)
 * [Mehran Ghaffarian](https://github.com/mehranghaffarian)
 * [MohammadHossein ZeynalZadeh](https://github.com/mh-zeynal)
+* [Negar Anabestani](https://github.com/negaranabestani )
 * [Sina Shariati](https://github.com/Noisyboy-9)
 * [Kimia Montazeri](https://github.com/KimiaMontazeri)
 * [Saman Hoseini](https://github.com/saman2000hoseini)
