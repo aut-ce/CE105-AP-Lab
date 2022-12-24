@@ -1,8 +1,8 @@
 # Contributors
-* [Abolfazl Hosseini](github.com/AbolfazlHosseini200)
+* [Abolfazl Hosseini](https://github.com/AbolfazlHosseini200)
 * [Alireza Nemati](https://github.com/alirza4)
 * [Alireza Zare](https://github.com/azare242)
-* [Amirerfan Teimoory](github.com/amirerfantim)
+* [Amirerfan Teimoory](https://github.com/amirerfantim)
 * [Amirfazel Koozegar](https://github.com/mr-amirfazel)
 * [Amirhesam Adibinia](https://github.com/adibov/)
 * [Arian Qazvini](https://github.com/ArianQazvini)
